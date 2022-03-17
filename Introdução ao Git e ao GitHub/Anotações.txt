@@ -1,0 +1,4 @@
+Lista de comandos úteis do GIT: https://comandosgit.github.io/
+
+Guia Básico de Markdown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
